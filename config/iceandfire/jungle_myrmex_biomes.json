@@ -4,12 +4,12 @@
       {
         "type": "BIOME_DICT",
         "negate": false,
-        "value": "overworld"
+        "value": "nether"
       },
       {
-        "type": "BIOME_CATEGORY",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "jungle"
+        "value": "allthemodium:mountain_edge"
       }
     ]
   ]

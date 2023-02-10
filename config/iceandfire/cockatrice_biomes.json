@@ -4,24 +4,12 @@
       {
         "type": "BIOME_DICT",
         "negate": false,
-        "value": "overworld"
+        "value": "nether"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "savanna"
-      }
-    ],
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_CATEGORY",
-        "negate": false,
-        "value": "savanna"
+        "value": "allthemodium:nether_wastes"
       }
     ]
   ]
