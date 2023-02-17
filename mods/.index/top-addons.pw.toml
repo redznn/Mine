@@ -1,0 +1,14 @@
+name = "TOP Addons"
+filename = "topaddons-1.16.5-2.2.0-beta.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d79e83ce5f40547e815f9a47c9228389e3fa18e1"
+
+[update]
+[update.curseforge]
+file-id = 3555274
+project-id = 247111
