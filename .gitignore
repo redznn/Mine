@@ -4,6 +4,7 @@ resourcepacks/
 saves/
 shaderspack/
 journeymap/
+.index/
 
 
 ## Arquivos
@@ -17,3 +18,4 @@ crash-reports/
 icon.png
 optionsshaders.txt
 patchouli_data.json
+
