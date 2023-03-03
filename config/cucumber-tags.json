@@ -11,7 +11,7 @@
   "forge:silicon": "refinedstorage:silicon",
   "forge:gems/apatite": "thermal:apatite",
   "forge:ingots/silver": "silents_mechanisms:silver_ingot",
-  "forge:dusts/saltpeter": "null",
+  "forge:dusts/saltpeter": "bloodmagic:saltpeter",
   "forge:ingots/steel": "silents_mechanisms:steel_ingot",
   "forge:ingots/platinum": "silents_mechanisms:platinum_ingot",
   "forge:ingots/lead": "silents_mechanisms:lead_ingot",
