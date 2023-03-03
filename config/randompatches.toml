@@ -1,0 +1,12 @@
+[client]
+	[client.window]
+		simple_title = "Minecraft ${mcversion} - ATM-6"
+		title = "Minecraft ${mcversion} - ATM-6"
+		title_with_activity = "Minecraft ${mcversion} - ATM-6 - ${activity}"
+[connection_timeouts]
+	login_timeout_ticks = 12000
+	keep_alive_timeout_seconds = 180
+[misc]
+	mixin_blacklist = ["ServerPlayNetHandlerKeepAlive"]
+	[misc.bug_fixes]
+		log_fixed_duplicate_entity_uuids = false

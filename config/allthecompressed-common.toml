@@ -9,7 +9,7 @@
 	#Show AllTheOres Blocks
 	AllTheOres = true
 	#Show Compressium Blocks
-	Compressium = true
+	Compressium = false
 	#Show Thermal Blocks
 	Thermal = true
 

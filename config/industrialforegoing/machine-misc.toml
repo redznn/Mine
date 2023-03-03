@@ -37,7 +37,7 @@
 		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [50 (2.5s)]
 		maxProgress = 50
 		#Ignore max level for enchanting
-		ignoreEnchantMaxLevels = false
+		ignoreEnchantMaxLevels = true
 		#Max Essence [mb] - Default: [64000 mb]
 		tankSize = 64000
 

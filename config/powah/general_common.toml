@@ -8,22 +8,6 @@ binding_card_dim = true
 #Enable this to get Lens Of Ender by right clicking an Enderman or Endermite with a Photoelectric Pane. [default:true]
 lens_of_ender = true
 
-["World Gen"]
-	#Enable/Disable ore generation. [default:true]
-	oreGen = true
-	#Dry Ice Ore generation chance
-	#Range: 1 ~ 64
-	dryIceGenChance = 9
-	#Poor Uraninite Ore generation chance
-	#Range: 1 ~ 64
-	poorUraniniteGenChance = 8
-	#Dense Uraninite Ore generation chance
-	#Range: 1 ~ 64
-	denseUraniniteGenChance = 3
-	#Uraninite Ore generation chance
-	#Range: 1 ~ 64
-	uraniniteGenChance = 6
-
 [Materials]
 	#
 	#List of coolant fluids used in the Reactor and the Thermo Generator.
@@ -43,4 +27,20 @@ lens_of_ender = true
 	coolantFluidsAPI = true
 	#Enable this to allow other mods to add their heat source blocks. [default:true]
 	heatBlocksAPI = true
+
+["World Gen"]
+	#Enable/Disable ore generation. [default:true]
+	oreGen = true
+	#Poor Uraninite Ore generation chance
+	#Range: 1 ~ 64
+	poorUraniniteGenChance = 8
+	#Uraninite Ore generation chance
+	#Range: 1 ~ 64
+	uraniniteGenChance = 6
+	#Dense Uraninite Ore generation chance
+	#Range: 1 ~ 64
+	denseUraniniteGenChance = 3
+	#Dry Ice Ore generation chance
+	#Range: 1 ~ 64
+	dryIceGenChance = 9
 
