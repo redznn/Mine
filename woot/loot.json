@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "simulatedMobs": [
+    {
+      "mob": "minecraft:sheep",
+      "simulatedKills": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "learnedDrops": []
+    },
+    {
+      "mob": "botania:doppleganger",
+      "simulatedKills": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "learnedDrops": []
+    }
+  ]
+}

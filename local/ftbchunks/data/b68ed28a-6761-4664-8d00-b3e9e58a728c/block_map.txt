@@ -1,0 +1,17 @@
+#53756B minecraft:brick_slab
+#1BDBFB minecraft:brick_stairs
+#B2A2E1 minecraft:dandelion
+#80497A minecraft:dirt
+#3F84B7 minecraft:grass_block
+#C23901 minecraft:grass_path
+#73753E minecraft:oak_fence
+#AD9EB5 minecraft:oak_leaves
+#BBA6D1 minecraft:oak_log
+#E3886A minecraft:oak_planks
+#72BC63 minecraft:oak_stairs
+#855CF4 minecraft:oak_trapdoor
+#F6678E minecraft:oxeye_daisy
+#35B2FA minecraft:petrified_oak_slab
+#AFAC0D minecraft:poppy
+#3A9287 minecraft:smooth_stone
+#CB82F8 minecraft:smooth_stone_slab

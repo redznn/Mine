@@ -108,17 +108,17 @@
 #Options related to loot table injections. Note some of the changes are done via global loot managers, these only control injecting loot into loot pools
 #If your modpack makes extensive loot table changes, many of these may be automatically disabled. You can also manually set up tables for more control.
 [loot]
-	#Adds slimy saplings and seeds into various loot chests. Helps for worlds without slime islands
-	slimy_loot = true
 	#Weight of blazing blood in the piglin bartering tables. Set to 0 to disable
 	#Range: 0 ~ 100
 	barter_blazing_blood = 20
+	#Adds slimy saplings and seeds into various loot chests. Helps for worlds without slime islands
+	slimy_loot = true
+	#If true, ender dragons will drop scales when damaged by explosions
+	drop_dragon_Scales = true
 	#Weight of tinker tools in the vanilla spawn bonus chest, randomly replacing the vanilla axe or shovel. Tool will have a random tier 1 head and binding, plus a wooden handle. Set to 0 to disable.
 	#For comparison, vanilla wooden axes and pickaxes have a weight of 3, and stone axes/pickaxes have a weight of 1
 	#Range: 0 ~ 25
 	tinker_tool_bonus_chest = 2
-	#If true, ender dragons will drop scales when damaged by explosions
-	drop_dragon_Scales = true
 
 #Features to use in debugging gameplay and mechanics, generally should not be enabled in packs
 [debug]
