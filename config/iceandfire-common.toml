@@ -51,7 +51,7 @@
 		"Dragon Den Gold Amount" = 4
 
 	[Generation.Structures-Features]
-		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from spawn(0, 0).
+		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from spawn.
 		#Range: 1 ~ 10000
 		"Dangerous World Gen Dist From Spawn" = 800
 		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from the last generated structure.
@@ -182,6 +182,9 @@
 		"Generate Hydra Caves" = true
 		#True if ghosts can rarely spawn from brutal PvP deaths.
 		"Ghost Spawn from PvP deaths" = true
+		#Dread Lich spawn chance. Lower = higher chance to spawn
+		#Range: 1 ~ 10000
+		"Lich Spawn Chance" = 30
 		#Dread Lich spawn weight. Lower = lower chance to spawn
 		#Range: 1 ~ 10000
 		"Lich Spawn Weight" = 2
@@ -199,6 +202,8 @@
 		"Hydra Caves Gen Chance" = 80
 		#True if dread liches are allowed to spawn
 		"Spawn Liches" = true
+		#Allows attributes for mobs to be overridden via the config file. One might want to disable this if other mods are enabled that change mob attributes e.g armor, health etc...
+		"Allow Attribute Overriding" = true
 		#Maximum ghost health.
 		#Range: 1.0 ~ 10000.0
 		"Ghost Max Health" = 30.0
@@ -315,6 +320,8 @@
 		"Trolls Drop Weapon" = true
 
 	[Mobs.Myrmex]
+		#Myrmex hives will ignore daytime
+		"Myrmex Hive Ignore Daytime" = false
 		#How many ticks it takes for a Myrmex to move from a larva to a pupa, and from a pupa to an adult.
 		#Range: 1 ~ 100000
 		"Myrmex Hatch Length" = 35000
@@ -450,4 +457,6 @@
 	#Maximum nodes for dragons/myrmex to path too. Decrease this is dragon pathfinding is super slow or intensive.
 	#Range: > 1
 	"Dragon Max Pathfinding Nodes" = 5000
+	#Enables the option to draw the pathfinding nodes when enabled (use a stick on an entity)
+	"Debug Pathfinding Mode" = false
 
